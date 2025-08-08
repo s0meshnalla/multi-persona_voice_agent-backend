@@ -1,0 +1,39 @@
+
+# Flask and web framework
+Flask
+Flask-CORS
+Flask-Session
+Flask-Limiter
+
+# AI and LLM libraries
+langchain
+langchain-google-genai
+langchain-core
+
+# Vector database and embeddings
+chromadb
+sentence-transformers
+
+# HTTP and API utilities
+requests
+httpx
+
+# Environment and configuration
+python-dotenv
+pydantic
+
+# Async and background tasks
+asyncio
+tenacity
+
+# Data processing
+numpy
+pandas
+
+# Logging and monitoring
+structlog
+
+# Security
+cryptography
+
+
